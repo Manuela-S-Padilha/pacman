@@ -1,2 +1,6 @@
-# pacman
+# pacman 
+This Pacman game was developed using HTML, CSS, and JavaScript, utilizing canvas features for graphical rendering. The gameplay involves controlling Pacman to navigate a tile-based map, where the main objective is to eat all the pellets scattered throughout the stage. During the game, ghosts move randomly across the map, acting as obstacles the player must avoid to prevent losing. The system detects collisions between Pacman, ghosts, and pellets, updating the score as the player progresses. When all pellets are eaten, the game advances to the next level, offering new challenges. If Pacman collides with a ghost, the game restarts, maintaining a continuous challenge.
+
+
+# pacman (pt-br)
 Este jogo Pacman foi desenvolvido utilizando HTML, CSS e JavaScript, explorando recursos do canvas para renderização gráfica. A mecânica envolve o controle do Pacman para percorrer um mapa composto por uma grade de tiles, onde o objetivo principal é comer todas as bolinhas espalhadas pelo cenário. Durante o jogo, fantasmas se movimentam aleatoriamente pelo mapa, representando obstáculos que o jogador deve evitar para não perder a partida. O sistema detecta colisões entre Pacman, fantasmas e bolinhas, atualizando a pontuação conforme o jogador avança. Quando todas as bolinhas são consumidas, o jogo avança para uma nova fase, oferecendo novos desafios. Caso o Pacman colida com algum fantasma, o jogo é reiniciado, mantendo o desafio constante.
